@@ -54,7 +54,7 @@ After running the gel-electrophoresis, the required band is cut in sterilized co
 
 
 # How to do Transformation of Plasmid DNA?
-(Note: - All steps are need to done inside Laminar Flow only.)
+(Note: - All steps are need to done inside Laminar Flow only.) <br />
 Steps: - 
 1. Culture of E. coli XL-1 Blue or BL-21(host bacteria) in transformation tube using 3-5 ml LB media without antibiotic for 5-7hrs.in shaking incubator.
 2. After that, keep in ice for 30minutes.
